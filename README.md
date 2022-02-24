@@ -1,2 +1,2 @@
 Hello git!
-Hello Ryhor
+Hello Ryhor! What are you doing with GIT? 
